@@ -1,6 +1,0 @@
-ultralytics
-opencv-python
-torch
-numpy
-arabic-reshaper
-python-bidi
